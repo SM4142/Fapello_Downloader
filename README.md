@@ -19,7 +19,7 @@ A **Node.js CLI tool** to download images from [Fapello](https://fapello.com/) d
 
 ```bash
 git clone https://github.com/your-username/fapello-downloader.git
-cd fapello-downloader
+cd Fapello_Downloader
 ```
 
 ````
