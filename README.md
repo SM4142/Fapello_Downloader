@@ -17,18 +17,17 @@ A **Node.js CLI tool** to download images from [Fapello](https://fapello.com/) d
 
 1. **Clone the repository**
 
-```bash
+
 git clone https://github.com/your-username/fapello-downloader.git
 cd Fapello_Downloader
-```
 
-````
+
 
 2. **Install dependencies**
 
-```bash
+
 npm install
-```
+
 
 ---
 
@@ -36,47 +35,47 @@ npm install
 
 Run the application:
 
-```bash
+
 npm start
-```
+
 
 ### Step-by-Step Example
 
 1️⃣ Enter the Fapello URL:
 
-```text
+
 Write the url(https://fapello.com/...): https://fapello.com/abc/
-```
+
 
 2️⃣ Specify the starting image number:
 
-```text
+
 Where should we start to install? 1
-```
+
 
 3️⃣ Specify the ending image number:
 
-```text
+
 Where should we end to install? 30
-```
+
 
 ---
 
 ## 📂 Terminal Output Example
 
-```text
+
 ./gallery/abc-1-30/abc1.jpeg
 ./gallery/abc-1-30/abc2.jpeg
 ./gallery/abc-1-30/abc3.jpeg
 ...
 ./gallery/abc-1-30/abc30.jpeg
-```
+
 
 ---
 
 ## 🗂 Folder Structure
 
-```text
+
 fapello-downloader/
 ├─ gallery/
 │  └─ abc-1-30/
@@ -86,7 +85,7 @@ fapello-downloader/
 ├─ dist/
 ├─ src/
 └─ package.json
-```
+
 
 ---
 
